@@ -171,3 +171,9 @@ label {
   font-weight: 600;
   margin: 0;
 }
+.flexbox {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: 0;
+}
