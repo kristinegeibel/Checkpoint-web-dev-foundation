@@ -161,16 +161,7 @@ label {
   margin-left: 20rem;
   margin-top: 10px;
 }
-.optionen-1 {
-  width: 55%;
-  font-weight: 600;
-  margin: 0;
-}
-.optionen-2 {
-  width: 40%;
-  font-weight: 600;
-  margin: 0;
-}
+
 .flexbox {
   display: flex;
   justify-content: space-around;
